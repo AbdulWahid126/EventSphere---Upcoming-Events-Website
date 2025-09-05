@@ -6,7 +6,7 @@ EventSphere is designed to provide a responsive, user-friendly, and stylish plat
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to view EventSphere Live](https://your-demo-link.com)  
+👉 [Click here to view EventSphere Live](https://eventsphere-sigma.vercel.app)  
 
 ---
 
